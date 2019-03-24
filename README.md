@@ -1,0 +1,2 @@
+# mailer
+mailer is the social network, the aim of this social network is to fill all the challenges user faces when using the the existing social networks likewise, to make our own social network which will be strong more secure and Africans will be able to communicate with rest part of the world easily. More over, we arm to increase our skills in working with groups to develop big projects even when were at remote places.
